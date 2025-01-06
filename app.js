@@ -1,4 +1,5 @@
 console.log('BEBRAS');
+console.log('bit js 06');
 
 
 const nr1 = document.querySelector('#nr1');
